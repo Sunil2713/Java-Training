@@ -1,0 +1,7 @@
+﻿target/
+bin/
+.settings/
+.classpath
+.project
+src/main/resources/db.properties
+src/main/webapp/WEB-INF/lib/*.jar
